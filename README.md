@@ -1,6 +1,6 @@
 # SDX to XML and TXT
 
-This script converts sdx file to txt file for Amazon Fire TVs. If you run the python script to convert the sdx file you should receive three files as output:
+This script converts sdx file to txt file for TV projects. If you run the python script to convert the sdx file you should receive three files as output:
 1.	sat_germany.txt - sorting file for satellite
 2.	dvbc_scan_maps_cfg.xml - sorting file for cable
 3.	dvbt_scan_maps_cfg.xml - sorting file for terrestrial 
