@@ -7,6 +7,6 @@ This script converts sdx file to txt file for Amazon Fire TVs. If you run the py
 See the exact information below.
 
 *Usage:*
-python SdxToALL.py XXX_Germany_XXX.sdx
+python SdxToALL.py XXX_Germany_OOO.sdx
 
 After that, it will generate sat_germany.txt, sat_austria.txt, dvbt_scan_maps_cfg.xml and dvbc_scan_maps_cfg.xml automatically.
